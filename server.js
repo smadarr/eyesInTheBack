@@ -15,7 +15,7 @@
 
 
 var admin = require("firebase-admin");
-//hi
+//h
 
 var serviceAccount = require("./public/src/eyesinthebackdb-key.json");
 
